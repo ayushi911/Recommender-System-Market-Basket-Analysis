@@ -6,6 +6,8 @@ and then provides the most suitable advices as recommendations to increase the s
 **For example:** Let in a store, if people buy pasta and wine, they are usually also interested in pasta sauces. So, the next
 time you go to the supermarket and buy pasta and wine, be ready to get a recommendation for some pasta sauce !
 So basically we have,<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **IF{pasta, wine, garlic} THEN{pasta-sauce}** <br>
+The first part of the rule is called “antecedent”, the second part is called “consequent”. A few measures, such as
+support, confidence, and lift, define how reliable each rule is. We will be dealing with some relevant algorithms for this purpose while we proceed. 
 
 ### Objectives: 
 - Analyze the anonymized data of 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart
