@@ -25,7 +25,7 @@ support, confidence, and lift, define how reliable each rule is. We will be deal
 
 ## Working Methodology:
 - So basically recommendations is
-![alt text](https://github.com/ayushi911/Project-Market-Basket-Analysis/blob/master/Plots%26imgs/RS.png)
+![alt text](https://github.com/ayushi911/Project-Market-Basket-Analysis/blob/master/Plots%26imgs/RS.jpeg)
 - The Rocket Retail dataset, that I am using has more than 20 million purchase history data with 4 CSV files namely:
   - *Category_tree.csv*
   - *events.csv*
